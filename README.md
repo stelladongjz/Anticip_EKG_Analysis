@@ -1,2 +1,2 @@
 # Anticip_EKG_Analysis
-EKG analysis for anticipation project at Iigaya Lab (Spring 2025)
+EKG Analysis for behavioral anticipation task. Process EKG data by computing average interbeat intervals (IBI) across participants and trials from before information stimulus onset till after outcome stimulus presentation. Applying new tools for r-peak detection as the toolbox from summer 2023 is no longer available. Currently experimenting with Scipy signal package for data preprocessing (band-pass filters) and r-peak detection.
